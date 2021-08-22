@@ -23,7 +23,8 @@ class Quiz extends StatelessWidget {
         // the ... pull all the values of the list and add it individually in the surrounding list
         ...(questions[questionIndex]['answers'] as List<Map<String, Object>>)
             .map((answer) {
-          return Answer(() => answerQuestion(answer['score']), answer['text'].toString());
+          return Answer(
+              () => answerQuestion(answer['score']), answer['text'].toString());
         }).toList()
       ],
     );
