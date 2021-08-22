@@ -7,9 +7,9 @@ This is my first flutter/dart app.
 That app simply shows questions and answers which the user can press on the screen and choose his answer.
 
 ### Question for example  
-<img src= https://github.com/YishayGarame/Flutter_questionsApp/blob/master/app.jpg width="200" height="400"/>
-            
-
+<img src= https://github.com/YishayGarame/Flutter_questionsApp/blob/master/images/first_1.jpg width="200" height="400"/>
+ <img src= https://github.com/YishayGarame/Flutter_questionsApp/blob/master/images/second_2.jpg width="200" height="400"/>  
+ <img src= https://github.com/YishayGarame/Flutter_questionsApp/blob/master/images/final%20score.jpg width="200" height="400"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
